@@ -12,7 +12,7 @@ Ideal for quick, in-file searches.
 
 ### Advanced Mode (Side Panel)
 Perfect for complex "Find in Folders" operations across multiple files.
-![Advanced Mode](https://i.ibb.co.com/G3GpKNjx/AP-Search-Bar-Advanced.png)
+![Advanced Mode](https://i.ibb.co.com/sdP7j4JJ/AP-Search-Bar-Advanced.png)
 
 ## ✨ Key Features
 
