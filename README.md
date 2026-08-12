@@ -8,11 +8,11 @@ It was created to bridge the gap between two excellent existing tools (*QSearch*
 
 ### Basic Mode (Top Bar)
 Ideal for quick, in-file searches.
-![Basic Mode](https://i.ibb.co.com/CpyXYbKk/Search-Bar-Basic.png)
+![Basic Mode](https://i.ibb.co.com/WpNRQkpb/AP-Search-Bar-Basic.png)
 
 ### Advanced Mode (Side Panel)
 Perfect for complex "Find in Folders" operations across multiple files.
-![Advanced Mode](https://i.ibb.co.com/MkKRZMdT/Search-Bar-Advanced.png)
+![Advanced Mode](https://i.ibb.co.com/G3GpKNjx/AP-Search-Bar-Advanced.png)
 
 ## ✨ Key Features
 
